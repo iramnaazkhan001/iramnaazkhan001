@@ -11,17 +11,29 @@ Databases: MySQL, MongoDB
 Design & Prototyping: Figma
 Languages: JavaScript
 
+💻 Key Projects
 
-💼 Notable Projects
-Here are some of the impactful projects I’ve delivered:
 
-Fiib College Website: Designed and developed a dynamic, user-friendly website to enhance the digital presence of an educational institution.
-Treebo Hotel Website: Built a responsive and engaging platform to streamline hotel bookings and elevate user experience.
-Student Portfolio Website: Created a professional portfolio to showcase student achievements with a clean, modern design.
-TEDxFIIB: Developed an event-focused website to promote and manage TEDx events, ensuring a seamless user journey.
-AOneEnterprises: Engineered a WordPress-based platform to deliver robust business solutions with scalability in mind.
 
-Note: Links are placeholders. Replace with actual project URLs.
+
+
+Fiib College Website: A dynamic site enhancing educational outreach.
+
+
+
+Treebo Hotel Website: A responsive platform for hotel bookings.
+
+
+
+Student Portfolio Website: A professional showcase for students.
+
+
+
+TEDxFIIB: An event-focused site for TEDx promotions.
+
+
+
+AOneEnterprises: A scalable WordPress-based business platform.
 
 🌟 Why Work With Me?
 
