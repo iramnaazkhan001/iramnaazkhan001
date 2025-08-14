@@ -7,21 +7,3 @@ I am currently employed as a remote professional at SeoNeurons, where I contribu
 💬 Ask me about JavaScript, Next.js, React.js, Node.js, Strapi, WordPress, MySQL, MongoDB, Bootstrap, Tailwind CSS, HTML, CSS, and Figma
 📫 How to reach me: iramnaazkhan123@gmail.com
 
-Connect with me
-Twitter | Instagram
-Languages and Tools
-
-Most Used Languages
-
-JavaScript: 40%
-HTML: 20%
-CSS: 20%
-Node.js: 20%
-
-Projects
-
-Fiib college website
-Treebo Hotel website
-Student portfolio website
-TEDxFIIB
-AOneEnterprises (WordPress-based platform)
